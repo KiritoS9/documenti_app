@@ -1,0 +1,89 @@
+{
+ "scanner": {
+  "trackId": 6774546852,
+  "bundleId": "it.stefano.soriano.scanner",
+  "trackName": "LiDAR Scanner",
+  "kind": "software",
+  "version": "1.0",
+  "formattedPrice": "Gratis",
+  "primaryGenreName": "Utilities",
+  "genres": [
+   "Utility"
+  ],
+  "minimumOsVersion": "26.4",
+  "releaseDate": "2026-06-07T07:00:00Z",
+  "currentVersionReleaseDate": "2026-06-08T06:26:12Z",
+  "trackViewUrl": "https://apps.apple.com/it/app/lidar-scanner/id6774546852",
+  "ipad": true
+ },
+ "moodie": {
+  "trackId": 6773670119,
+  "bundleId": "it.stefano.soriano.moodie",
+  "trackName": "Moodie",
+  "kind": "software",
+  "version": "2.0",
+  "formattedPrice": "Gratis",
+  "primaryGenreName": "Entertainment",
+  "genres": [
+   "Intrattenimento"
+  ],
+  "minimumOsVersion": "26.0",
+  "releaseDate": "2026-05-28T07:00:00Z",
+  "currentVersionReleaseDate": "2026-10-29T22:16:04Z",
+  "trackViewUrl": "https://apps.apple.com/it/app/moodie/id6773670119",
+  "ipad": true
+ },
+ "gymora": {
+  "trackId": 6766464474,
+  "bundleId": "it.stefano.soriano.gymora",
+  "trackName": "Gymora Fit",
+  "kind": "software",
+  "version": "2.1.0",
+  "formattedPrice": "Gratis",
+  "primaryGenreName": "Sports",
+  "genres": [
+   "Sport"
+  ],
+  "minimumOsVersion": "13.0",
+  "releaseDate": "2026-05-09T07:00:00Z",
+  "currentVersionReleaseDate": "2026-07-21T22:10:49Z",
+  "trackViewUrl": "https://apps.apple.com/it/app/gymora-fit/id6766464474",
+  "ipad": true
+ },
+ "trebbiafacile": {
+  "trackId": 6782441151,
+  "bundleId": "it.stefano.soriano.trebbiafacile",
+  "trackName": "Trebbia Facile",
+  "kind": "software",
+  "version": "1.0",
+  "formattedPrice": "Gratis",
+  "primaryGenreName": "Utilities",
+  "genres": [
+   "Utility",
+   "Economia"
+  ],
+  "minimumOsVersion": "13.0",
+  "releaseDate": "2026-06-22T07:00:00Z",
+  "currentVersionReleaseDate": "2026-06-22T18:19:15Z",
+  "trackViewUrl": "https://apps.apple.com/it/app/trebbia-facile/id6782441151",
+  "ipad": true
+ },
+ "cullinglab": {
+  "trackId": 6765623888,
+  "bundleId": "it.stefano.soriano.cullinglab",
+  "trackName": "Culling Lab",
+  "kind": "mac-software",
+  "version": "1.4",
+  "formattedPrice": "Gratis",
+  "primaryGenreName": "Photo & Video",
+  "genres": [
+   "Foto e video",
+   "Produttività"
+  ],
+  "minimumOsVersion": "15.6",
+  "releaseDate": "2026-05-22T07:00:00Z",
+  "currentVersionReleaseDate": "2026-07-27T18:09:51Z",
+  "trackViewUrl": "https://apps.apple.com/it/app/culling-lab/id6765623888?mt=12",
+  "ipad": false
+ }
+}
